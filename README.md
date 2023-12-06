@@ -10,6 +10,7 @@ O projeto é composto por dois arquivos principais de Jupyter Notebook:
 
 - `Tratamento_Dados_Textuais.ipynb`: Após a coleta de dados, este notebook é utilizado para o tratamento dos textos extraídos. As operações incluem a remoção de números, stopwords, pontuações, correção de espaços duplos, entre outras tarefas de limpeza e normalização dos dados.
 
+- `Análise - Número de Palavras.ipynb`: Análise do número de palavras por notícia antes e após o tratamento. 
 
 ## Contribuições
 
